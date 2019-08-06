@@ -7,18 +7,20 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Laboratorios
 | Laboratorio |                         Enlace                        | Titulo 		|   Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|:-----------:|
-|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | Hola Mundo! | 11 de marzo |
-|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | Blink Led! | Task 1: 25 de marzo - Task 2: 1 de abril|
-|      2      | [Clickeame!](https://classroom.github.com/a/kbl4kGKI) | Output e Input Básicos (GPIOs) | 8 de abril |
-|      3      | [Clickeame!](https://classroom.github.com/a/yNNpDuQP) | PWM y ADC | 15 de abril|
-|      4      | [Clickeame!](https://classroom.github.com/a/Fp8Dcd4R) | UART - Introducción| 22 de abril|
-|      5      | [Clickeame!](https://classroom.github.com/a/Cw4LvB3i) | UART - Recepción| 29 de abril|
-|      6      | [Clickeame!](https://classroom.github.com/a/cFzY-F-I) | UART - Interrupts| 6 de mayo|
-|      7      | [Clickeame!](https://classroom.github.com/a/gnIWqug6) | Timers | 13 de mayo|
-|      --      | [Semana Libre!](https://youtu.be/LDU_Txk06tM?t=66) | [Semana Libre!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 20 de mayo|
-|      8      | [Clickeame!](https://classroom.github.com/a/w-6LrXV0) |SPI| 27 de mayo|
-|      9      | [Clickeame!](https://classroom.github.com/a/3nzgczq5) |I2C| 3 de junio|
-|      10      | [Clickeame!](https://classroom.github.com/a/GYHBdM5C) |Portón| 17 de junio|
+|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | Hola Mundo! | 12 de agosto |
+|      0.1      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Kits| 19 de agosto |
+|      1      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Blink Led! | 26 de agosto|
+|      2      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Output e Input Básicos (GPIOs) | 2 de septiembre |
+|      3      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | PWM y ADC | 9 de septiembre|
+|      --      | [Fiestas Patrias!](https://youtu.be/GBJKEJCz4Bs?t=60) | [Semana Libre!](https://youtu.be/GBJKEJCz4Bs?t=60)| 16 de septiembre|
+|      4      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Introducción| 23 de septiembre|
+|      5      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Recepción| 30 de septiembre|
+|      6      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Interrupts| 7 de octubre|
+|      7      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Timers | 14 de octubre|
+|      --      | [Sorpresa!](https://youtu.be/LDU_Txk06tM?t=66) | [Sorpresa!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 21 de octubre|
+|      8      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |SPI| 28 de octubre|
+|      9      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |I2C| 4 de noviembre|
+|      10      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |Portón| 11 y 18 de noviembre|
 
 
 
@@ -26,11 +28,10 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 
 ## Foro
 
-Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que requieran reemplazo de algún material o justificar algún problema personal deben escribir un correo con copia a los siguientes 3 ayudantes.
+Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que requieran reemplazo de algún material o justificar algún problema personal deben escribir un correo con copia a los siguientes 2 ayudantes.
 
 - Felipe Sánchez (fssanchez@uc.cl)
 - María Ignacia Valdés (mivaldes1@uc.cl)
-- Alejandro Kaminetzky (ajkaminetzky@uc.cl)
 
 ## Sistema de calificación de laboratorios
 
