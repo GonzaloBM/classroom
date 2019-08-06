@@ -7,7 +7,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Laboratorios
 | Laboratorio |                         Enlace                        | Titulo 		|   Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|:-----------:|
-|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | Hola Mundo! | 12 de agosto |
+|      0      | [Clickeame!](https://classroom.github.com/a/6l0RdzuM) | Hola Mundo! | 12 de agosto |
 |      0.1      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Kits| 19 de agosto |
 |      1      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Blink Led! | 26 de agosto|
 |      2      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Output e Input Básicos (GPIOs) | 2 de septiembre |
