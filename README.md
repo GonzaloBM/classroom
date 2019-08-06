@@ -70,3 +70,8 @@ Ejemplo:
 
 - **Caso  2**: Si **puntos reprobados > 40 pts**, para aprobar debe cumplir que **puntos distinguidos ≥ puntos reprobados + 20**.
 
+## Semestres Anteriores
+
+Pueden acceder a los Classroom de los semestres anteriores en el siguiente link
+
+- [2019-1](https://github.com/IEE2463/classroom---2019-I)
