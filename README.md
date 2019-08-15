@@ -33,7 +33,17 @@ Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que 
 - Felipe Sánchez (fssanchez@uc.cl)
 - María Ignacia Valdés (mivaldes1@uc.cl)
 
+## NOTAS 
+
+Las notas se encontrarán en una planilla visible únicamente para los alumnos pertenecientes al curso, debe iniciar sesión con su correo @uc.cl
+
+[Planilla de notas](https://docs.google.com/spreadsheets/u/1/d/1-JtEkXe9AvJ7c1Li1fkIrIwxorvHl3l8ctK5wNKnePk/edit?usp=sharing)
+
+
 ## Sistema de calificación de laboratorios
+
+
+
 
 Esto lo encontrará en la explicación en el documento [Sistema Calificación SEP](/Administración/SistemaCalificacionSEP.pdf). A modo de resumen:
 
