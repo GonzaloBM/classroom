@@ -8,7 +8,8 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 | Laboratorio |                         Enlace                        | Titulo 		|   Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|:-----------:|
 |      0      | [Clickeame!](https://classroom.github.com/a/6l0RdzuM) | Hola Mundo! | 12 de agosto |
-|      0.1      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Kits| 19 de agosto |
+|      0.1      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Distinguidos rezagados| 19 de agosto |
+|      0.2      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Kits| 21 de agosto |
 |      1      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Blink Led! | 26 de agosto|
 |      2      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Output e Input Básicos (GPIOs) | 2 de septiembre |
 |      3      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | PWM y ADC | 9 de septiembre|
