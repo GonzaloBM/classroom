@@ -12,12 +12,12 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      0.2      | [En desarrollo!](https://www.youtube.com/watch?v=spUNpyF58BY) | Entrega Kits| 21 de agosto |
 |      1      | [Clickeame!](https://classroom.github.com/a/i-YyqqtC) | Blink Led! | 26 de agosto|
 |      2      | [Clickeame!](https://youtu.be/3wwIkYNwilg?t=18) | Output e Input Básicos (GPIOs) | 2 de septiembre |
-|      3      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | PWM y ADC | 9 de septiembre|
+|      3      | [Clickeame!](https://www.youtube.com/watch?v=oU5kGcpeMow) | PWM y ADC | 9 de septiembre|
 |      --      | [Fiestas Patrias!](https://youtu.be/GBJKEJCz4Bs?t=60) | [Semana Libre!](https://youtu.be/GBJKEJCz4Bs?t=60)| 16 de septiembre|
-|      4      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Introducción| 23 de septiembre|
-|      5      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Recepción| 30 de septiembre|
-|      6      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | UART - Interrupts| 7 de octubre|
-|      7      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Timers | 14 de octubre|
+|      4      | [Clickeame!](https://youtu.be/FdSuKQbFvD4?t=28) | UART - Introducción| 23 de septiembre|
+|      5      | [Clickeame!](https://www.youtube.com/watch?v=e5S62yBW0gs) | UART - Recepción| 30 de septiembre|
+|      6      | [Clickeame!](https://youtu.be/2NCviYMdV1I?t=14) | UART - Interrupts| 7 de octubre|
+|      7      | [Clickeame!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Timers | 14 de octubre|
 |      --      | [Sorpresa!](https://youtu.be/LDU_Txk06tM?t=66) | [Sorpresa!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 21 de octubre|
 |      8      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |SPI| 28 de octubre|
 |      9      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |I2C| 4 de noviembre|
