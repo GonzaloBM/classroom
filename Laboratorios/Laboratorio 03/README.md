@@ -45,7 +45,7 @@ Aquellos que lograron ver el archivo el día de ayer, deben notar la nueva Task 
 
 ## Task 1
 
-Una vez terminados los pasos anteriores ydeterminado el microcontrolador a utilizar, el paso siguiente, es hacer comenzar a hacer el código para el task 1. Formas de comenzar esto hay varias, recomendamos siempre comenzar de un caso base:
+Una vez terminados los pasos anteriores y determinado el microcontrolador a utilizar, el paso siguiente, es comenzar el código para el task 1. Formas de comenzar esto hay varias, recomendamos siempre comenzar de un caso base:
 
 	1. Comenzar con una PWM y un ADC, realizando la conversión de la medición pertinente (ojo con los tipos de variables).
 	2. Agregar una PWM y controlar ambas con ADC
