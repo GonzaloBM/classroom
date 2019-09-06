@@ -13,7 +13,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      1      | [Clickeame!](https://classroom.github.com/a/i-YyqqtC) | Blink Led! | 26 de agosto|
 |      2      | [Clickeame!](https://classroom.github.com/a/TOEBo3RB) | Output e Input Básicos (GPIOs) | 2 de septiembre |
 |      3      | [Clickeame!](https://classroom.github.com/a/3XYu0Naj) | PWM y ADC | 9 de septiembre|
-|      4      | [Clickeame!](https://youtu.be/FdSuKQbFvD4?t=28) | UART - Introducción| 16 de septiembre|
+|      4      | [Clickeame!](https://classroom.github.com/a/DcY-VjwW) | UART - Introducción| 16 de septiembre|
 |      --      | [Fiestas Patrias!](https://youtu.be/GBJKEJCz4Bs?t=60) | [Semana Libre!](https://youtu.be/GBJKEJCz4Bs?t=60)| 23 de septiembre|
 
 |      5      | [Clickeame!](https://www.youtube.com/watch?v=e5S62yBW0gs) | UART - Recepción| 30 de septiembre|
