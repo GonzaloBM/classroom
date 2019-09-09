@@ -15,7 +15,6 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      3      | [Clickeame!](https://classroom.github.com/a/3XYu0Naj) | PWM y ADC | 9 de septiembre|
 |      4      | [Clickeame!](https://classroom.github.com/a/DcY-VjwW) | UART - Introducción| 16 de septiembre|
 |      --      | [Fiestas Patrias!](https://youtu.be/GBJKEJCz4Bs?t=60) | [Semana Libre!](https://youtu.be/GBJKEJCz4Bs?t=60)| 23 de septiembre|
-
 |      5      | [Clickeame!](https://www.youtube.com/watch?v=e5S62yBW0gs) | UART - Recepción| 30 de septiembre|
 |      6      | [Clickeame!](https://youtu.be/2NCviYMdV1I?t=14) | UART - Interrupts| 7 de octubre|
 |      7      | [Clickeame!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Timers | 14 de octubre|
