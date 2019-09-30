@@ -16,14 +16,26 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      4      | [Clickeame!](https://classroom.github.com/a/DcY-VjwW) | UART - Introducción| 16 de septiembre|
 |      --      | [Fiestas Patrias!](https://youtu.be/GBJKEJCz4Bs?t=60) | [Semana Libre!](https://youtu.be/GBJKEJCz4Bs?t=60)| 23 de septiembre|
 |      5      | [Clickeame!](https://classroom.github.com/a/HhzXsPbh) | UART - Recepción| 30 de septiembre|
-|      6      | [Clickeame!](https://youtu.be/2NCviYMdV1I?t=14) | UART - Interrupts| 7 de octubre|
-|      7      | [Clickeame!](https://www.youtube.com/watch?v=D-UmfqFjpl0) | Timers | 14 de octubre|
-|      --      | [Sorpresa!](https://youtu.be/LDU_Txk06tM?t=66) | [Sorpresa!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 21 de octubre|
-|      8      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |SPI| 28 de octubre|
+|      6      | [Clickeame!](https://classroom.github.com/a/SxWwhJoE) | UART - Interrupts| 7 de octubre|
+|      7      | [Clickeame!](https://classroom.github.com/a/L0_6zqJ1) | Timers | 14 de octubre|
+|      --      | [Semana Libre!](https://youtu.be/LDU_Txk06tM?t=66) | [Semana Libre!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 21 de octubre|
+|      8      | [En desarrollo!](https://classroom.github.com/a/YoWHqGLc) |SPI| 28 de octubre|
 |      9      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |I2C| 4 de noviembre|
 |      10      | [En desarrollo!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |Portón| 11 y 18 de noviembre|
 
 
+## Motivación de fin de semestre
+
+### LAB 6
+El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.com/watch?v=Xpt5Ouz14GY&t=27s)
+
+
+### LAB 7
+[¿Agobiado con el lab 7 ? ](https://www.youtube.com/watch?v=D-UmfqFjpl0)
+![Raccoon Hacker][https://pbs.twimg.com/media/D5BEpIiWAAIS07t.jpg]
+
+### LAB 8
+Una pequeña motivacion para comenzar a buscar tu  [animal espiritual!](https://www.youtube.com/watch?v=D-UmfqFjpl0)
 
 
 
