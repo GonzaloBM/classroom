@@ -31,7 +31,7 @@ El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.co
 
 
 ### LAB 7
-[¿Agobiado con el lab 7 ? ](https://www.youtube.com/watch?v=D-UmfqFjpl0)
+[¿Agobiado con el lab 7 ? ](https://youtu.be/Xpt5Ouz14GY)
 
 <img src="https://pbs.twimg.com/media/D5BEpIiWAAIS07t.jpg" width="540" height="394">
 
