@@ -33,7 +33,8 @@ El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.co
 ### LAB 7
 [¿Agobiado con el lab 7 ? ](https://www.youtube.com/watch?v=D-UmfqFjpl0)
 
-![Raccoon Hacker](https://pbs.twimg.com/media/D5BEpIiWAAIS07t.jpg&s=50)
+<img src="https://pbs.twimg.com/media/D5BEpIiWAAIS07t.jpg" width="540" height="394">
+
 
 ### LAB 8
 Una pequeña motivacion para comenzar a buscar tu  [animal espiritual!](https://www.youtube.com/watch?v=D-UmfqFjpl0)
