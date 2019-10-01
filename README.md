@@ -27,7 +27,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Motivación de fin de semestre
 
 ### LAB 6
-El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.com/watch?v=Xpt5Ouz14GY&t=27s)
+El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.com/watch?v=j0YXfeNxJJ0)
 
 
 ### LAB 7
