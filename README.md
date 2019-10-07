@@ -29,7 +29,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ### LAB 7
 [¿Agobiado con el lab 7 ? ](https://youtu.be/Xpt5Ouz14GY)
 
-<img src="https://pbs.twimg.com/media/D5BEpIiWAAIS07t.jpg" width="540" height="394">
+<img src="https://www.cbc.ca/kidsnews/content/TikTok_thumbnail.gif" width="540" height="394">
 
 
 ### LAB 8
