@@ -26,10 +26,6 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 
 ## Motivación de fin de semestre
 
-### LAB 6
-El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.com/watch?v=j0YXfeNxJJ0)
-
-
 ### LAB 7
 [¿Agobiado con el lab 7 ? ](https://youtu.be/Xpt5Ouz14GY)
 
@@ -39,6 +35,8 @@ El LAB 6 no es el mejor amigo.. pero [No te desanimes ! ](https://www.youtube.co
 ### LAB 8
 Una pequeña motivacion para comenzar a buscar tu  [animal espiritual!](https://www.youtube.com/watch?v=D-UmfqFjpl0)
 
+
+<img src="https://media1.tenor.com/images/71b7c230a1109c43cf6db7d68f233c0f/tenor.gif?itemid=4977418" width="540" height="394">
 
 
 ## Foro
